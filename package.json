@@ -1,0 +1,17 @@
+{
+  "name": "fr.phylisiumstudio.crimsonsaver",
+  "displayName": "Crimson Saver",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "description": "A simple abstract save system for Unity.",
+  "keywords": [
+    "save",
+    "system",
+    "abstract",
+    "simple"
+  ],
+  "author": {
+    "name": "SoraxDubbing",
+    "url": "https://sorax5.github.io/"
+  }
+}

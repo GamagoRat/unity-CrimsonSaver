@@ -1,0 +1,18 @@
+{
+    "name": "fr.phylisiumstudio.crimsonsaver.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ee33e74428ffaeb4aa9fb2bfd02d0b46"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
