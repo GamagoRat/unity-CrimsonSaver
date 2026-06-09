@@ -74,7 +74,7 @@ Un système de sauvegarde **abstrait et flexible** pour Unity, permettant de sau
 3. Sélectionnez **Add package from git URL...**
 4. Collez l'URL :
    ```
-   https://github.com/SoraxDubbing/CrimsonSaver.git
+   https://github.com/GamagoRat/unity-CrimsonSaver.git
    ```
 5. Appuyez sur **Enter** et attendez l'installation
 
@@ -85,7 +85,7 @@ Modifiez `Packages/manifest.json` de votre projet :
 ```json
 {
   "dependencies": {
-    "fr.phylisiumstudio.crimsonsaver": "https://github.com/SoraxDubbing/CrimsonSaver.git",
+    "fr.phylisiumstudio.crimsonsaver": "https://github.com/GamagoRat/unity-CrimsonSaver.git",
     ...
   }
 }
